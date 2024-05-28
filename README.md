@@ -4,7 +4,7 @@
 
 # Dashboards com Tableau
 
-Turma Online On34 | Python | Semana 16 | 2024 | <a href="" target="_blank" rel="noopener noreferrer">Professora </a>
+Turma Online On34 | Python | Semana 16 | 2024 | <a href="https://www.linkedin.com/in/julianavtal/" target="_blank" rel="noopener noreferrer">Professora Juliana Vital</a>
 
 ### Instruções
 Antes de começar, vamos organizar nosso setup.
